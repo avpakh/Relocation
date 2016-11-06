@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3750286209">
+    <data-source source="LOCAL" name="SQL Server - @pinhmc.pogoda.by" read-only="true" uuid="d237c8d8-a47e-4bbf-92b8-35732e464b97">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://pinhmc.pogoda.by:1433</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
